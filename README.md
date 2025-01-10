@@ -8,7 +8,7 @@ To make use of my interpersonal skills to get an opportunity here I can make the
 - 🏌️Here's my [portfolio]()
 - 👀 I’m interested in Full Stack development
 - 🔭 I’m currently working on MERN Stack  
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning AWS
 - 💬 Ask me about MERN
 - ⚡ Fun fact I think I am CURIOUS
   
@@ -37,7 +37,6 @@ To make use of my interpersonal skills to get an opportunity here I can make the
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
