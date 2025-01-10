@@ -22,7 +22,6 @@ To make use of my interpersonal skills to get an opportunity here I can make the
   
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)](https://github.com/sudharshan4702)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sudharshan-a-n-b3a96824b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/https://leetcode.com/u/xzVpdhL4dR/)
 <br>
 # 💻 Tech Stack:
 
@@ -41,7 +40,3 @@ To make use of my interpersonal skills to get an opportunity here I can make the
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan4702" />
-<br><br><br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/xzVpdhL4dR?theme=dark&font=Marcellus&ext=heatmap)
-<br/>
