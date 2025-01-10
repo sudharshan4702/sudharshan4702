@@ -5,11 +5,11 @@
 To make use of my interpersonal skills to get an opportunity here I can make the best of my potential and contribute to the organization’s growth and focus to achieve customer satisfaction and customer experience.
 
 
-- 🏌️Here's my [portfolio]()
 - 👀 I’m interested in Full Stack development
-- 🔭 I’m currently working on MERN Stack  
+- 🔭 I’m currently working on MySQL Database and MySQL tools
 - 🌱 I’m currently learning AWS
-- 💬 Ask me about MERN
+- 💬 Ask me about MySQL and AWS (Basics)
+- 🏌️ I have done projects in MERN, PHP and MySQL
 - ⚡ Fun fact I think I am CURIOUS
   
 <br>
